@@ -1,0 +1,15 @@
+{
+  "name": "Catch It",
+  "description": "Can you catch more than your friends?",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+  },
+  "happyFunTimes": {
+    "category": "game",
+    "gameId": "hft-catchit",
+    "gameType": "html",
+    "apiVersion": "1.0.0",
+    "minPlayers": 1
+  }
+}
